@@ -1,7 +1,7 @@
-<h1 align="center"> Abdelrahman Samir </h1>
-<h2 align="center">From Chemistry to Coding </h2>
+<h1 align="left"> Abdelrahman Samir </h1>
+<h2 align="left">From Chemistry to Coding </h2>
 
-<p align="left">- I've BSc Chemistry & Geology - working at a pharmaceutical company & passionate to be a full time programmer.  </p>
+<p align="left">- I've BSc Chemistry & Geology <br> - working at a pharmaceutical company & passionate to be a full time programmer.  </p>
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
 
 
