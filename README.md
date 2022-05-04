@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Abdelrahman Samir </h1>
-<h2 align="center">From Chemistry to Coding   <img width="30" src="https://github.com/abdelrahman719/abdelrahman719/blob/main/chemgif.gif" />  </h2>
+<h2 align="center">From Chemistry to Coding   <img width="60" src="https://github.com/abdelrahman719/abdelrahman719/blob/main/chemgif.gif" />  </h2>
 
 <p align="left">- I've BSc Chemistry & Geology <br> - working at a pharmaceutical company & passionate to be a full time programmer.  </p>
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
