@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Angular and DSA by JS**
 
 
-- 📫 How to reach me **abdo.samir.7719@gmail.com || <img src="https://www.flaticon.com/free-icon/whatsapp_733585?term=whatsapp&page=1&position=6&page=1&position=6&related_id=733585&origin=tag" alt="html5" width="30" height="30" /> (+2)01553499532**
+- 📫 How to reach me **abdo.samir.7719@gmail.com || <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/whatsapp%20icon.png" alt="whatsapp" width="30" height="30" /> (+2)01553499532**
 
 
  
