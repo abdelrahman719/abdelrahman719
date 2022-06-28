@@ -12,6 +12,7 @@
 
 
 - 📫 How to reach me **abdo.samir.7719@gmail.com**
+-           whatsapp ** (+2)01553499532 **
 
  
 <h3 align="left">Connect with me:</h3>
