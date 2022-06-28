@@ -8,7 +8,7 @@
 - 🤝 I’m looking forward **to be a software team member**
 - 🔭 I’m currently working on **Freelancing Projects**
 
-- 🌱 I’m currently learning **Backend by node.js and DSA**
+- 🌱 I’m currently learning **Angular and DSA by JS**
 
 
 - 📫 How to reach me **abdo.samir.7719@gmail.com**
