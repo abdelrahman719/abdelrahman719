@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋 , I'm Abdelrahman Samir </h1>
 <h2  align="center"> Front-end Developer  </h2>
-<h4> +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience </h4>
-
-<p align="left">- Bachelor of Science , Alexandria University </p>
+<h4  align="center" > +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience </h4>
+<h4  align="center" >Able to think outside the box and come up with creative solutions and passionate to face challenges daily and learn new tricks and tools. </h4>
+<p  align="center" >- Bachelor of Science , Alexandria University </p>
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
 
 
-- 🤝 I’m looking forward **to be a software team member**
+- 🤝 I’m looking forward ** to be a part of a talented developers**
 - 🔭 I’m currently working on **Freelancing Projects**
 
-- 🌱 I’m currently learning **Angular and DSA by JS**
 
-
-- 📫 How to reach me **abdo.samir.7719@gmail.com**
-
-
-
- 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me </h3>
+**abdo.samir.7719@gmail.com**
 <p align="left"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" /> <b> (+2)  015 534 99 532 </b> </p>
 <p align="left">
 <a href="https://twitter.com/abdelra68528795?t=dkemoztodp23zzii0fvbqq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelra68528795?t=dkemoztodp23zzii0fvbqq&s=08" height="30" width="40" /></a>
