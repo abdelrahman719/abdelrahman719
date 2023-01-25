@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , Abdelrahman Samir </h1>
 <h2  align="center"> Front-end Developer  </h2>
-- Have +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience 
-- Able to think outside the box and come up with creative solutions and passionate to face challenges daily and learn new tricks and tools
+- **Have +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience** 
+- **Able to think outside the box and come up with creative solutions and passionate to face challenges daily and learn new tricks and tools**
  
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
 
