@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 , I'm Abdelrahman Samir </h1>
-<h2  align="center">Enthusiastic Front-end Developer   <img width="30" src="https://github.com/abdelrahman719/abdelrahman719/blob/main/chemgif.gif" />  </h2>
-<h3> +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience </h3>
+<h2  align="center"> Front-end Developer  </h2>
+<h4> +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience </h4>
 
-<p align="left">- Bachelor of Science , Alexandria University <br> - working at a pharmaceutical company & passionate to be a full time programmer.  </p>
+<p align="left">- Bachelor of Science , Alexandria University </p>
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
 
 
