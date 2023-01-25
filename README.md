@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 , Abdelrahman Samir </h1>
 <h2  align="center"> Front-end Developer  </h2>
-<h4  align="left" >-Have +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience </h4>
-<h4  align="left" >-Able to think outside the box and come up with creative solutions and passionate to face challenges daily and learn new tricks and tools. </h4>
-<p  align="left" >- Bachelor of Science , Alexandria University </p>
+- Have +2 years of experience as a freelancer and seeking to be a part of a talented developers team and gain more deep experience 
+- Able to think outside the box and come up with creative solutions and passionate to face challenges daily and learn new tricks and tools
+ 
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
 
-
+- Graduated From : **Faculty of Science , Alexandria University**
 - 🤝 I’m looking forward **to be a part of a talented developers**
 - 🔭 I’m currently working on **Freelancing Projects**
 
