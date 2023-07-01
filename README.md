@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , Abdelrahman Samir </h1>
 <h2  align="center"> Front-end Developer  </h2>
 
-- 🤝 **Junior Front-end Developer seeking to a position where I can apply my 3 years of experience in JavaScript and Angular to design and develop scalable and efficient applications**
+- 🤝 ** Front-end Developer seeking to a position where I can apply my 3 years of experience in JavaScript and Angular to design and develop scalable and efficient applications**
 - 🔭 **Commitment to ongoing professional development and staying up-to-date with the latest front-end development trends and technologies**
 - Graduated From : **Faculty of Science , Alexandria University**
 <p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
