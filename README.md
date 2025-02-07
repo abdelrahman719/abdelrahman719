@@ -1,19 +1,64 @@
-<h1 align="center">Hi 👋 , Abdelrahman Samir </h1>
-<h2  align="center"> Front-end Developer  </h2>
+<h1 align="center">Hi 👋, I'm Abdelrahman Samir</h1>
+<h2 align="center">🚀 Front-End Developer (Angular Specialist)</h2>
 
-- 🤝 ** Front-end Developer seeking to a position where I can apply my 3 years of experience in JavaScript and Angular to design and develop scalable and efficient applications**
-- 🔭 **Commitment to ongoing professional development and staying up-to-date with the latest front-end development trends and technologies**
-- Graduated From : **Faculty of Science , Alexandria University**
-<p align="center"> <img src="https://github.com/abdelrahman719/abdelrahman719/blob/main/teagif.gif" /> </p>
+- 🔹 **Passionate Front-End Developer** with 4+ years of experience building scalable, high-performance web applications.  
+- 🔹 Specialized in **Angular, TypeScript, JavaScript (ES6+), and UI/UX optimization**.  
+- 🔹 Experienced in **enterprise applications** for ministries, universities, and e-commerce platforms.  
+- 🔹 Always **learning & improving**—staying up-to-date with modern front-end technologies.  
 
+---
 
-<h3 align="left">📫 How to reach me </h3>
-abdo.samir.7719@gmail.com
-<p align="left"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" /> <b> (+2)  015 534 99 532 </b> </p>
+<h3 align="left">📌 Featured Projects:</h3>
+
+- 🔹 <a href="https://fulfly.net" target="_blank"><b>Fulfly.net</b></a>  
+  - Led the **redesign and optimization** of a large affiliate system using Angular.  
+  - Improved **UX, performance, and business logic integration**.  
+  - Applied **lazy loading** to boost performance.  
+
+- 🔹 <a href="https://happykids-stories.netlify.app/" target="_blank"><b>Happy Kids Stories</b></a>  
+  - Designed and developed a **fun, engaging children's story website**.  
+  - Used **HTML, CSS, JavaScript, Bootstrap, and jQuery** to enhance interactivity.  
+
+---
+
+<h3 align="left">🛠️ Tech Stack & Tools:</h3>
+
 <p align="left">
-<a href="https://twitter.com/abdelra68528795?t=dkemoztodp23zzii0fvbqq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelra68528795?t=dkemoztodp23zzii0fvbqq&s=08" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdelrahman-samir-64436a1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-samir-64436a1a2" height="30" width="40" /></a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="PrimeNG" width="40" height="40"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <br>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="JIRA" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <br> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> </p>
+---
+
+<h3 align="left">📫 How to reach me:</h3>
+
+📧 **Email:** abdo.samir.7719@gmail.com  
+
+<p align="left">
+  <a href="https://twitter.com/abdelra68528795?t=dkemoztodp23zzii0fvbqq&s=08" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelrahman-samir-64436a1a2/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Looking for new opportunities to contribute to impactful projects. Let’s connect! 🚀</h3>
