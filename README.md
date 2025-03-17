@@ -8,18 +8,6 @@
 
 ---
 
-<h3 align="left">📌 Featured Projects:</h3>
-
-- 🔹 <a href="https://fulfly.net" target="_blank"><b>Fulfly.net</b></a>  
-  - Led the **redesign and optimization** of a large affiliate system using Angular.  
-  - Improved **UX, performance, and business logic integration**.  
-  - Applied **lazy loading** to boost performance.  
-
-- 🔹 <a href="https://happykids-stories.netlify.app/" target="_blank"><b>Happy Kids Stories</b></a>  
-  - Designed and developed a **fun, engaging children's story website**.  
-  - Used **HTML, CSS, JavaScript, Bootstrap, and jQuery** to enhance interactivity.  
-
----
 
 <h3 align="left">🛠️ Tech Stack & Tools:</h3>
 
