@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Samir</h1>
-<h2 align="center">🚀 Front-End Developer (Angular Specialist)</h2>
+<h1 align="center">Hi 👋, I'm Abdelrahman Samir</h1>  
+<h2 align="center">🚀 Senior Frontend Developer | Angular Specialist</h2>  
 
-- 🔹 **Passionate Front-End Developer** with 4+ years of experience building scalable, high-performance web applications.  
-- 🔹 Specialized in **Angular, TypeScript, JavaScript (ES6+), and UI/UX optimization**.  
-- 🔹 Experienced in **enterprise applications** for ministries, universities, and e-commerce platforms.  
-- 🔹 Always **learning & improving**—staying up-to-date with modern front-end technologies.  
+- 🔹 **Senior Frontend Engineer** with 4+ years of experience in **scalable, high-performance web applications**.  
+- 🔹 Specialized in **Angular, TypeScript, JavaScript (ES6+), RxJS, and modern UI/UX practices**.  
+- 🔹 Experienced in **microfrontends, enterprise-scale Angular projects**, and modern web architectures.  
+- 🔹 Strong in **team leadership, mentoring developers, and aligning frontend strategy with business goals**.  
+- 🔹 Proven track record across **ministries, universities, and e-commerce platforms**.  
+- 🔹 Always **learning, innovating, and pushing web performance to the next level**.
 
 ---
 
